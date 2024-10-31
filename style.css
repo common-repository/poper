@@ -1,0 +1,20 @@
+.poper-admin-notice .poper-action-btn,
+.poper-admin-c-notice .poper-action-btn
+{
+    display: inline-block;
+    background-color: #f14a16;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    text-decoration: none;
+}
+.poper-admin-notice .poper-action-btn:hover,
+.poper-admin-c-notice .poper-action-btn:hover
+{
+    background-color: #c3380d;
+    color: #fff;
+}
